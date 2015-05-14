@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Axar</string>
+	<string>Pulsar</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -762,5 +762,10 @@
 	<string>sRGB</string>
 	<key>semanticClass</key>
 	<string>theme.dark.axar</string>
+	<key>author</key>
+	<string>WegPast</string>
+	<key>comment</key>
+	<string>Enhanced Axar theme. Quite good for Symfony2 developpers :)
+- Twig Friendly</string>
 </dict>
 </plist>
